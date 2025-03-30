@@ -1,0 +1,14 @@
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\bin\Debug\net9.0\PettingZooVisit.exe
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\bin\Debug\net9.0\PettingZooVisit.deps.json
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\bin\Debug\net9.0\PettingZooVisit.runtimeconfig.json
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\bin\Debug\net9.0\PettingZooVisit.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\bin\Debug\net9.0\PettingZooVisit.pdb
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.AssemblyInfoInputs.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.AssemblyInfo.cs
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.csproj.CoreCompileInputs.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\refint\PettingZooVisit.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.pdb
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\PettingZooVisit.genruntimeconfig.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\PettingZooVisit\obj\Debug\net9.0\ref\PettingZooVisit.dll
