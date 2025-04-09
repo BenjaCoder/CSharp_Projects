@@ -1,0 +1,15 @@
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\bin\Debug\net9.0\WheelOfFortune.exe
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\bin\Debug\net9.0\WheelOfFortune.deps.json
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\bin\Debug\net9.0\WheelOfFortune.runtimeconfig.json
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\bin\Debug\net9.0\WheelOfFortune.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\bin\Debug\net9.0\WheelOfFortune.pdb
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.AssemblyInfoInputs.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.AssemblyInfo.cs
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.sourcelink.json
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\refint\WheelOfFortune.dll
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.pdb
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\WheelOfFortune.genruntimeconfig.cache
+C:\Users\16073\Documents\GitHub\repos\CSharp_Projects\WheelOfFortune\obj\Debug\net9.0\ref\WheelOfFortune.dll
